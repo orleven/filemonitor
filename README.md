@@ -1,11 +1,12 @@
 # filemonitor Client 
 ---------------------------
 
-Current Release: v0.2 (2016.10.21)
+Current Release: v0.2 (2016.10.21)  
 
 # Overview
 ---------------------------
-file monitor client for **python2.7**
+File monitor client for **python2.7**  
+And the **server** is developing...  :)
 
 # Operating Systems supported
 ---------------------------
